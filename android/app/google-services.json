@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650581131380",
+    "project_id": "my-notes-flutter-project-ebbe4",
+    "storage_bucket": "my-notes-flutter-project-ebbe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650581131380:android:956265d9c504c1f69dd121",
+        "android_client_info": {
+          "package_name": "com.nexuslabs.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650581131380-9j143ud3u7ssost7mqb202mg2ecdvlch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCF3llfENw0FuYvEhjkqqmqyk3IQvne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650581131380-9j143ud3u7ssost7mqb202mg2ecdvlch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
